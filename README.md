@@ -1,3 +1,3 @@
 # Backgammon
 
-This is a project written in java using java.awt and javax.swing packages
+This is a Backgammon game written in java using java.awt and javax.swing packages
